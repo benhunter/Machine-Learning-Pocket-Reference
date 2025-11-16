@@ -1,6 +1,8 @@
 # Machine-Learning-Pocket-Reference
 O'Reilly book by Matt Harrison. Working with Structured Data in Python.
 
+[Book source code](https://github.com/mattharrison/ml_pocket_reference)
+
 ## Dataset
 http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls
 
