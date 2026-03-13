@@ -32,7 +32,7 @@ Mako==1.1.2
 MarkupSafe==1.1.1
 monotonic==1.5
 netifaces==0.10.4
-numpy==1.20.1
+numpy==1.22.0
 oauthlib==3.1.0
 olefile==0.46
 paramiko==2.7.1
